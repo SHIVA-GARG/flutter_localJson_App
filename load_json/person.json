@@ -1,0 +1,23 @@
+[
+    {
+       
+        "name" :"Shiva Garg",
+        "age"   :"18",
+        "gender" :"male",
+        "hair_color":"black"
+    },
+    {
+        
+        "name" :"Pranjal Mangal",
+        "age"   :"18",
+        "gender" :"female",
+        "hair_color":"golden"
+    },
+    {
+      
+        "name" :"Akansha Gupta",
+        "age"   :"19",
+        "gender" :"female",
+        "hair_color":"Red"
+    }
+]
